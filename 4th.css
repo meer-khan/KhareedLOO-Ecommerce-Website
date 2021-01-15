@@ -1,0 +1,122 @@
+@media only screen and (min-width: 992px) {
+    /* styling navbar */
+   .right-items{
+        margin-left: 25%;
+    }
+    .center-items{
+      margin-left: 15%;
+    }
+}
+
+ .navbar-brand{
+        font-family: 'Cutive Mono', monospace;
+        font-weight: 800;
+        font-size: 35px;
+    }
+
+    .bill{
+        /* text-align: right; */
+    }
+
+    /* CART NAME PRODCTS PRICES STYLING */
+.cart-container{
+
+}
+.cart-heading{
+    /* text-align: center; */
+}
+.product-name{
+   font-family: 'Open Sans Condensed', sans-serif;
+   font-size: 20px;
+   
+}
+.product-price{
+    font-family: 'Open Sans Condensed', sans-serif;
+     margin-left: 45%;
+     font-size: 20px;
+}
+.product-quantity{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+   
+    
+}
+
+.products-in-cart{
+    border: 1px solid #e6e3e0;
+    height: 75%;
+}
+
+/* TOTAL PART */
+.total{
+    margin-top: 40%;
+    background-color:#E0EBFF;
+    height: 30%;
+    
+}
+.total-heading{
+    font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+.total-price{
+    margin-left: 53%;
+     font-size: 20px;
+     font-family: 'Open Sans Condensed', sans-serif;
+
+}
+.place-order-btn{
+   margin-left: 28%;
+   padding: 3.5%;
+   width: 50%;
+   color: white;
+   background-color: black;
+   border-radius: 5px;
+}
+/* REDEEM CODE STYLING */
+
+.redeem-button{
+    
+}
+
+/* FOOOTER STYLING */
+.footer-container{
+    margin-top: 2%;
+    padding-bottom: 3%;
+    margin-bottom: 1%;
+    background-color: #343a40;
+    color: whitesmoke;
+}
+
+.footer-items{
+   font-family: 'Open Sans Condensed', sans-serif;
+   list-style-type: none;
+   margin-top: 4%;
+
+}
+.footer-links{
+    color: inherit;
+    cursor:pointer;
+}
+.footer-links:hover{
+    color: white; 
+     text-decoration:none; 
+     cursor:pointer; 
+     transform: scale(1.1); 
+    
+}
+.footer-email-button{
+    margin-top: 2%;
+    background-color: #343a40;
+    color: white;
+    border: 1px solid white;
+    width: 30%;
+    height: 25%;
+}
+.footer-email-button:hover{
+    transform: scale(1.1); 
+}
+
+.error{
+    color: white;
+}

@@ -1,0 +1,89 @@
+*{
+	font-family: 'Josefin Sans', sans-serif;
+}
+#logo{
+	width: 140px;
+	height: 60px;
+}
+#logo1{
+	width: 200px;
+	height: 100px;
+}
+		
+.center-items{
+	margin-left: 20%;
+}
+.center-items li a{
+	font-size: 16px;
+	color: black;
+	font-weight: bold;
+}
+
+.right-items{
+	margin-left: 40%;
+		}
+@media only screen and (max-width: 992px){
+.center-items{
+	margin-left: 0;
+	}
+.right-items{
+	margin-left: 0;
+	}
+		}
+.navbar-brand{
+	margin-left: 5%;
+}
+.submenu{
+	display: none;
+}
+
+.body{
+	background-color: #f1f2f7;
+}
+form
+{
+	padding: 0px;
+	border: none;
+}
+.Signup-wrap{
+	padding-top: 130px;	
+}
+input{
+    display: block;
+    padding: 8px 16px;
+    font-size: 2em;
+    margin: 10px auto;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    outline: none !important;
+}
+input:focus{
+	outline:none;
+    border-color:#9ecaed;
+	box-shadow:0 0 10px #9ecaed;
+}
+input.valid{
+	border-color: #36cc36;
+
+}
+input.invalid{
+	border-color: red;
+}
+input+p{
+	font-family: arial;
+	font-size: 0.8em;
+	/* font-weight: normal; */
+	text-align: center;
+	/* padding-left: 10px; */
+	margin: 0 10px;
+	color: red;
+	opacity: 0;
+	height: 0;
+}
+input.invalid+p{
+	opacity: 1;
+	height: auto;
+	margin-bottom: 20px;
+}
