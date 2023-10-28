@@ -1,6 +1,5 @@
 # KhareedLOO [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-![Ecommerce Website](website-screenshot.png)
+[![Follow me on Medium](https://img.shields.io/badge/Medium-%40meer--khan-02b875?style=for-the-badge&logo=medium)](https://medium.com/@meer-khan)
 
 ## Description: 
 Welcome to the Ecommerce-Website-HTML-CSS-JS-PHP repository! This project is an online store designed for shopping enthusiasts. You can explore a wide range of products, including shoes, sunglasses, and much more. This website offers a seamless shopping experience with a user-friendly interface.
@@ -43,10 +42,15 @@ These technologies work together to create a responsive and dynamic online shopp
 
 ### Billing Area
 
-<img src="https://github.com/meer-khan/KhareedLOO-Ecommerce-Website/assets/40295656/b5304f16-9aef-4c3f-b04d-6cc5699e7560" style="height: 650px; width:450px;"/>
+<img src="https://github.com/meer-khan/KhareedLOO-Ecommerce-Website/assets/40295656/b5304f16-9aef-4c3f-b04d-6cc5699e7560" style="height: 650px; width:550px;"/>
+
+
+
 
 
 Feel free to contribute, report issues, or suggest improvements. Happy shopping and happy coding!
 It comes under MIT License [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 <a class="github-button" href="https://github.com/meer-khan" data-size="large" aria-label="Follow @meer-khan on GitHub">Follow @meer-khan</a>
+[![Follow me on Medium](https://img.shields.io/badge/Medium-%40meer--khan-02b875?style=for-the-badge&logo=medium)](https://medium.com/@meer-khan)
+
