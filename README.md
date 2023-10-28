@@ -4,10 +4,10 @@
 This website is an online store for buying Shoes, Sun Glasses, and much more
 ## Building Blocks:
 This is created by using the following technologies:
-1. HTML
-2. CSS
-3. JS
-4. PHP (Backend)
+1. HTML <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML Icon" width="30" height="30">
+2. CSS <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon" width="30" height="30">
+3. JS <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="JavaScript Icon" width="30" height="30">
+4. PHP (Backend) <img src="https://img.icons8.com/officel/16/000000/php-logo.png" alt="PHP Icon" width="30" height="30">
 
 ## Usage:
 1. Go to the "src" directory and find `mainpage.html` file
