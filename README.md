@@ -4,13 +4,6 @@
 
 ## Description: 
 Welcome to the Ecommerce-Website-HTML-CSS-JS-PHP repository! This project is an online store designed for shopping enthusiasts. You can explore a wide range of products, including shoes, sunglasses, and much more. This website offers a seamless shopping experience with a user-friendly interface.
-## Building Blocks:
-This is created by using the following technologies:
-1. HTML <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML Icon" width="30" height="30">
-2. CSS <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon" width="30" height="30">
-3. JS <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="JavaScript Icon" width="30" height="30">
-4. PHP (Backend) <img src="https://img.icons8.com/officel/16/000000/php-logo.png" alt="PHP Icon" width="30" height="30">
-
 
 ## Building Blocks
 
@@ -44,7 +37,9 @@ These technologies work together to create a responsive and dynamic online shopp
 
 <img src="https://github.com/meer-khan/KhareedLOO-Ecommerce-Website/assets/40295656/9ad27a04-f51d-4a46-ac3d-536adc40e315" style="height: 650px; width:400px;"/>
 
+### Product Purchase Page
 
+<img src="https://github.com/meer-khan/KhareedLOO-Ecommerce-Website/assets/40295656/69336aeb-6bab-466e-99ff-f8f84d6b4958" style="height: 650px; width:400px;"/>
 
 
 Feel free to contribute, report issues, or suggest improvements. Happy shopping and happy coding!
