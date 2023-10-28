@@ -41,6 +41,10 @@ These technologies work together to create a responsive and dynamic online shopp
 
 <img src="https://github.com/meer-khan/KhareedLOO-Ecommerce-Website/assets/40295656/69336aeb-6bab-466e-99ff-f8f84d6b4958" style="height: 650px; width:400px;"/>
 
+### Billing Area
+
+<img src="https://github.com/meer-khan/KhareedLOO-Ecommerce-Website/assets/40295656/b5304f16-9aef-4c3f-b04d-6cc5699e7560" style="height: 650px; width:450px;"/>
+
 
 Feel free to contribute, report issues, or suggest improvements. Happy shopping and happy coding!
 It comes under MIT License [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
