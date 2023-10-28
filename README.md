@@ -16,4 +16,6 @@ This is created by using the following technologies:
 
 ### Shoes Page
 
+<img src="https://github.com/meer-khan/KhareedLOO-Ecommerce-Website/assets/40295656/9ad27a04-f51d-4a46-ac3d-536adc40e315" style="height: 650px; width:400px;"/>
+
 <a class="github-button" href="https://github.com/meer-khan" data-size="large" aria-label="Follow @meer-khan on GitHub">Follow @meer-khan</a>
